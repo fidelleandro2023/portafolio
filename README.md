@@ -2,7 +2,7 @@
 
 <b>Empresa Binary - Full stack:</b> <br>
 https://sodimac.falabella.com.pe/sodimac-pe (Codeigniter)<br>
-https://www.falabella.com.pe/ (secciones) y apis de Facebook<br>
+https://www.falabella.com.pe/ (secciones) y apis de Facebook
 <br><br>
 <b>Empresa VCI - Full stack</b><br>
 https://gildemeister-retail.pe/ (Wordpress)<br>
