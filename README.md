@@ -18,9 +18,9 @@ https://carpio-rivero.com/es (Vtiger)<br>
 https://pegafan.com (Vtiger)<br>
 https://www.progreso.cl (Vtiger)
 <br><br>
-<b>Empresa Netschool 360</b><br>
-https://www.netsupportschool.com/es 
+<b>Empresa Netschool 360 - Backend</b><br>
+https://www.netsupportschool.com/es (Codeigniter) 
 <br><br>
-<b> Empresa Segursat</b>
+<b> Empresa Segursat - Full stack</b><br>
 https://app.segursatgps.com/login (Python)
 
