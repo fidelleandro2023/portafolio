@@ -14,5 +14,7 @@ https://www.facebook.com/Olivalle.pe/?locale=es_LA<br>
 https://www.grantthornton.pe (Codeigniter)
 <br><br>
 <b>Empresa Creantis - Full stack</b><br>
-https://carpio-rivero.com/es/ (Vtiger)<br>
+https://carpio-rivero.com/es (Vtiger)<br>
+https://pegafan.com (Vtiger)<br>
+https://www.progreso.cl (Vtiger)<br>
 
