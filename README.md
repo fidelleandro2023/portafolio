@@ -9,6 +9,8 @@ https://gildemeister-retail.pe/ (Wordpress)<br>
 https://auna.pe (Codeigniter)<br>
 https://www.oncosalud.pe (Codeigniter)<br>
 https://tcomparo.com.pe/autos (Codeigniter)<br>
+https://www.perspectiva.pe (Codeigniter)<br>
+https://www.facebook.com/Olivalle.pe/?locale=es_LA<br>
 <br><br>
 <b>Empresa Creantis - Full stack</b><br>
 https://carpio-rivero.com/es/ (Vtiger)<br>
