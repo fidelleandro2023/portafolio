@@ -14,9 +14,10 @@ https://www.facebook.com/Olivalle.pe/?locale=es_LA<br>
 https://www.grantthornton.pe (Codeigniter)
 <br><br>
 <b>Empresa Creantis - Full stack</b><br>
-https://carpio-rivero.com/es (Vtiger)<br>
-https://pegafan.com (Vtiger)<br>
-https://www.progreso.cl (Vtiger)
+https://carpio-rivero.com/es (Vtiger + PHP 7)<br>
+https://pegafan.com (Vtiger + PHP 7)<br>
+https://www.progreso.cl (Vtiger + PHP 7)<br>
+https://www.ventaniadepot.com (Vtiger + PHP 7)
 <br><br>
 <b>Empresa Netschool 360 - Backend</b><br>
 https://www.netsupportschool.com/es (Codeigniter) 
