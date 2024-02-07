@@ -1,4 +1,4 @@
-# portafolio Fidel Leandro Cerna Ruiz
+# Portafolio Fidel Leandro Cerna Ruiz
 
 <b>Empresa Binary - Full stack:</b> <br>
 https://sodimac.falabella.com.pe/sodimac-pe (Codeigniter)<br>
