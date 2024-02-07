@@ -16,7 +16,7 @@ https://www.grantthornton.pe (Codeigniter)
 <b>Empresa Creantis - Full stack</b><br>
 https://carpio-rivero.com/es (Vtiger)<br>
 https://pegafan.com (Vtiger)<br>
-https://www.progreso.cl (Vtiger)<br>
+https://www.progreso.cl (Vtiger)
 <br><br>
 <b>Empresa Netschool 360</b><br>
 https://www.netsupportschool.com/es <br>
