@@ -19,5 +19,8 @@ https://pegafan.com (Vtiger)<br>
 https://www.progreso.cl (Vtiger)
 <br><br>
 <b>Empresa Netschool 360</b><br>
-https://www.netsupportschool.com/es <br>
+https://www.netsupportschool.com/es 
+<br><br>
+<b> Empresa Segursat</b>
+https://app.segursatgps.com/login (Python)
 
